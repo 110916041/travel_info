@@ -1,32 +1,41 @@
-# travel_info
+🕸# Tourism-Management-System💻
 
-此專案的目的：
+   _______________________Installation Steps(Configuration)______________________
+1. Download and Unzip file on your local system.
+2.Copy tms folder and tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-   1.目的是可以讓註冊號後的使用者瀏覽在資料庫中存放的旅遊行程，進行預約行程
+   _____________________________Database Configuration_________________________
 
-   2.管理者也可以在資料庫後台看到有哪些使用者註冊、其基本資料或是預約了哪些行程
+Open phpmyadmin
+Create Database tms
+Import database tms.sql (available inside zip package)Open Your browser put inside browser  👇🏻
+👉🏻 http://localhost/tms
 
 
-實作：
+   ///////////////\\\\\\\\\\\\\\\\\\\///////////\\\\\\\\\\\\\\\\\
+Login Details for admin : 
+Open Your browser put inside browser 👉🏻 http://localhost/tms/admin 
 
-   藉由XAMPP連線和phpmyadmin連上SQL，在vscode上進行編寫
-   
-   ![image](https://github.com/110916041/travel_info/blob/7bf7674dab32813f7bcf852fe25a528bcda4d4b8/image/DB.png)
-   ![image](https://github.com/110916041/travel_info/blob/2a5ccc7b0304075381a28b5fcf072566afa567a4/image/xampp.png)
+Username : admin
 
-網頁首頁：
+Password : Test@123
 
-   ![image](https://github.com/110916041/travel_info/blob/d15fd5509d3e46a8e94ee9791b52f54146b3f9d4/image/page.png)
+   /////////\\\\\\\\\\\\\\////////////\\\\\\\\\\\\\\\\\\\
 
-登入畫面：
-   
-   ![image](https://github.com/110916041/travel_info/blob/e3cea6a9e154e42dc802cc68b080f9e7b4be4633/image/create.jpg)
+Login Details for user: 
+Open Your browser put inside browser  👉🏻 http://localhost/tms/
 
-訂房紀錄顯示位置：
+Username : anuj@gmail.com
 
-   ![image](https://github.com/110916041/travel_info/blob/be5d6cd282300f319c73b5e26e84c34ad485628a/image/record.jpg)
+Password : Test@123
 
-用戶操作：
+  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                 👇🏻
 
-   ![image](https://github.com/110916041/travel_info/blob/be5d6cd282300f319c73b5e26e84c34ad485628a/image/operation.jpg)
-
+_________________________Screen Short_______________________
+![Screenshot 2022-03-08 at 8 03 04 PM](https://user-images.githubusercontent.com/54598380/157259105-06bf9333-74a6-434c-9c75-f409957e7a8a.png)
+![Screenshot 2022-03-08 at 8 02 31 PM](https://user-images.githubusercontent.com/54598380/157259124-6b5dc12a-5fca-420e-9dca-e26ab1234718.png)
+![Screenshot 2022-03-08 at 8 02 23 PM](https://user-images.githubusercontent.com/54598380/157259131-7739c156-e542-4e23-8f32-63e8d356e602.png)
+![Screenshot 2022-03-08 at 8 02 13 PM](https://user-images.githubusercontent.com/54598380/157259136-bf10adaf-c641-4743-8cc1-fc6a2414d4d4.png)
+![Screenshot 2022-03-08 at 8 07 26 PM](https://user-images.githubusercontent.com/54598380/157259740-70228ad8-0b42-4c97-99a8-e678954076ac.png)
+![Screenshot 2022-03-08 at 8 07 35 PM](https://user-images.githubusercontent.com/54598380/157259746-a37391f8-405d-41ec-a07b-be540f60e6f4.png)
