@@ -11,3 +11,6 @@
 實作：
 
    藉由XAMPP連線和phpmyadmin連上SQL，在vscode上進行編寫
+   
+   ![image](https://github.com/110916041/travel_info/blob/7bf7674dab32813f7bcf852fe25a528bcda4d4b8/image/DB.png)
+   ![image](https://github.com/110916041/travel_info/blob/7bf7674dab32813f7bcf852fe25a528bcda4d4b8/image/DB.png)
