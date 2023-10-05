@@ -18,5 +18,15 @@
 
    ![image](https://github.com/110916041/travel_info/blob/d15fd5509d3e46a8e94ee9791b52f54146b3f9d4/image/page.png)
 
+登入畫面：
    
+   ![image](https://github.com/110916041/travel_info/blob/d15fd5509d3e46a8e94ee9791b52f54146b3f9d4/image/page.png)
+
+訂房紀錄顯示位置：
+
+   ![image](https://github.com/110916041/travel_info/blob/be5d6cd282300f319c73b5e26e84c34ad485628a/image/record.jpg)
+
+用戶操作：
+
+   ![image](https://github.com/110916041/travel_info/blob/be5d6cd282300f319c73b5e26e84c34ad485628a/image/operation.jpg)
 
