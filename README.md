@@ -20,7 +20,7 @@
 
 登入畫面：
    
-   ![image](https://github.com/110916041/travel_info/blob/d15fd5509d3e46a8e94ee9791b52f54146b3f9d4/image/page.png)
+   ![image](https://github.com/110916041/travel_info/blob/e3cea6a9e154e42dc802cc68b080f9e7b4be4633/image/create.jpg)
 
 訂房紀錄顯示位置：
 
