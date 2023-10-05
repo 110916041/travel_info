@@ -1,41 +1,46 @@
-🕸# Tourism-Management-System💻
+#Travel System
 
-   _______________________Installation Steps(Configuration)______________________
-1. Download and Unzip file on your local system.
-2.Copy tms folder and tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+介紹：
 
-   _____________________________Database Configuration_________________________
+利用PHP+MySQL完成此網站
 
-Open phpmyadmin
-Create Database tms
-Import database tms.sql (available inside zip package)Open Your browser put inside browser  👇🏻
-👉🏻 http://localhost/tms
+1.目的是可以讓註冊號後的使用者瀏覽在資料庫中存放的旅遊行程，進行預約行程
 
+2.管理者也可以在資料庫後台看到有哪些使用者註冊、其基本資料或是預約了哪些行程
 
-   ///////////////\\\\\\\\\\\\\\\\\\\///////////\\\\\\\\\\\\\\\\\
-Login Details for admin : 
-Open Your browser put inside browser 👉🏻 http://localhost/tms/admin 
+實作：
 
-Username : admin
+藉由XAMPP連線和phpmyadmin連上SQL，在vscode上進行編寫
 
-Password : Test@123
+![image](https://github.com/110916041/travel_info/blob/430124e4db951d302c5478b45da4afe5feba3681/image/xampp.png)
+![image](https://github.com/110916041/travel_info/blob/430124e4db951d302c5478b45da4afe5feba3681/image/DB.png)
 
-   /////////\\\\\\\\\\\\\\////////////\\\\\\\\\\\\\\\\\\\
+再配合所學，將資料庫所存放的資料，以ER model和relation schema表示
 
-Login Details for user: 
-Open Your browser put inside browser  👉🏻 http://localhost/tms/
+![image](https://github.com/110916041/travel_info/blob/382790fe80d864b38d9e8f5818c1316a3ca4d6f1/image/SOL.png)
 
-Username : anuj@gmail.com
+![image](https://github.com/110916041/travel_info/blob/430124e4db951d302c5478b45da4afe5feba3681/image/ER.png)
 
-Password : Test@123
+![image](https://github.com/110916041/travel_info/blob/430124e4db951d302c5478b45da4afe5feba3681/image/relation.png)
 
-  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-                                 👇🏻
+操作畫面：
 
-_________________________Screen Short_______________________
-![Screenshot 2022-03-08 at 8 03 04 PM](https://user-images.githubusercontent.com/54598380/157259105-06bf9333-74a6-434c-9c75-f409957e7a8a.png)
-![Screenshot 2022-03-08 at 8 02 31 PM](https://user-images.githubusercontent.com/54598380/157259124-6b5dc12a-5fca-420e-9dca-e26ab1234718.png)
-![Screenshot 2022-03-08 at 8 02 23 PM](https://user-images.githubusercontent.com/54598380/157259131-7739c156-e542-4e23-8f32-63e8d356e602.png)
-![Screenshot 2022-03-08 at 8 02 13 PM](https://user-images.githubusercontent.com/54598380/157259136-bf10adaf-c641-4743-8cc1-fc6a2414d4d4.png)
-![Screenshot 2022-03-08 at 8 07 26 PM](https://user-images.githubusercontent.com/54598380/157259740-70228ad8-0b42-4c97-99a8-e678954076ac.png)
-![Screenshot 2022-03-08 at 8 07 35 PM](https://user-images.githubusercontent.com/54598380/157259746-a37391f8-405d-41ec-a07b-be540f60e6f4.png)
+1. 使用者登入
+ 
+![image](https://github.com/110916041/travel_info/blob/382790fe80d864b38d9e8f5818c1316a3ca4d6f1/image/create.jpg)
+
+2. 員工登入
+
+![image](https://github.com/110916041/travel_info/blob/382790fe80d864b38d9e8f5818c1316a3ca4d6f1/image/staff_login.png)
+
+3. 訂房紀錄顯示處
+
+![image](https://github.com/110916041/travel_info/blob/382790fe80d864b38d9e8f5818c1316a3ca4d6f1/image/record.jpg)
+
+4. 網站首頁
+
+![image](https://github.com/110916041/travel_info/blob/430124e4db951d302c5478b45da4afe5feba3681/image/page.png)
+
+5. 使用者須知
+
+![image](https://github.com/110916041/travel_info/blob/382790fe80d864b38d9e8f5818c1316a3ca4d6f1/image/operation.jpg)
